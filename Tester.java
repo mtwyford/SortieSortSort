@@ -9,7 +9,7 @@ public class Tester {
     s1.bubbleSort();
     s1.insertionSort();  //print # swaps for each
     s1.selectionSort();
-	
+	//Jerry is smart
 	}
 
 }
